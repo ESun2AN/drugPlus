@@ -6,6 +6,10 @@
 [![CSS3](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-success)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-informational)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet)](https://getbootstrap.com/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-orange)](https://www.thymeleaf.org/)
 
 
 ## 안은선
